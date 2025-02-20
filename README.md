@@ -6,8 +6,7 @@
 ---
 
 ### **🚀 About Me**
-- 💻 Passionate about **web development & open-source contributions**  
-- 🔭 Currently working on **TDD in Laravel**  
+- 💻 Passionate about **web development & open-source contributions**    
 - 🌱 Learning and improving **DevOps & Cloud Technologies**  
 - 🎯 Goal: **Build scalable applications with modern technologies**  
 - ⚡ Fun fact: **I love solving coding challenges!**  
